@@ -23,7 +23,11 @@ describe 'license meta' do
 
       it 'using contains 3 examples' do
         legacy = [
+<<<<<<< HEAD
 	  'MohamedAmineDerbel.txt',
+=======
+          'zied.txt',
+>>>>>>> 8cf8c8674007b88edc1ad6a8cdbd23eb6de03db1
           'afl-3.0',
           'artistic-2.0',
           'bsd-3-clause-clear',
